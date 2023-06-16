@@ -1,1 +1,11 @@
 Yair Farina
+
+¿Que es git?.
+
+Git es un sistema de control de versiones distribuido ampliamente utilizado para administrar y rastrear cambios en proyectos de software. Fue creado por Linus Torvalds en 2005 para facilitar el desarrollo del kernel de Linux. Git permite que múltiples desarrolladores trabajen en el mismo proyecto simultáneamente, lo que facilita la colaboración y la fusión de sus cambios.
+
+¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+
+Git es una herramienta poderosa para gestionar el desarrollo de software en equipo, controlar los cambios realizados, facilitar la colaboración y mantener un historial completo de versiones, lo que ayuda a mejorar la calidad del software y a agilizar el proceso de desarrollo.
+
+Git brinda a los programadores un control preciso sobre el historial de cambios de su código, permite la colaboración en equipo eficiente, fomenta las mejores prácticas de desarrollo y facilita la experimentación y el respaldo del trabajo. Es una herramienta esencial en el flujo de trabajo de cualquier programador y contribuye a la eficiencia y la calidad en el desarrollo de software. Me va a ayudar tambien para publicar mis proyectos personales y para poder hacer proyectos con otra personas
